@@ -1,0 +1,18 @@
+.active{
+  color: aqua;
+}
+.vanbar ul li {
+list-style: none;
+}
+.vanbar ul li a {
+text-decoration: none;
+  }
+.vanbar{
+  justify-content: space-around;
+  display: flex;
+}
+.vanbar ul  {
+  display: flex;
+  margin: 0;
+  gap:  15px;
+  }
